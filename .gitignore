@@ -1,0 +1,8 @@
+*.*~
+auto
+*.aux
+*.html
+.aux
+ltxpng
+.tex
+.pdf
