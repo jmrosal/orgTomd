@@ -1,8 +1,8 @@
-*.*~
-auto
+.*~
+auto/*.*
 *.aux
 *.html
 .aux
-ltxpng
-.tex
-.pdf
+ltxpng/*.*
+*.tex
+*.pdf
